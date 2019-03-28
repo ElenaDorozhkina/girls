@@ -1,0 +1,265 @@
+body {
+    font-family: Arial, sans-serif;
+    color: red;
+    padding:0;
+    margin: 0;
+}
+.clearfix:after {
+    content: "";
+    display: table;
+    width: 100%;
+    clear: both;
+}
+
+
+
+div {
+    box-sizing: border-box;
+}
+
+header {
+    background: url('girls/99.jpg')center no-repeat; 
+   padding-bottom: 100px;
+  
+   
+}
+
+.container {
+    width: 1100px;
+    margin: 0 auto;
+}
+
+
+.logo {
+    width: 100px;
+    height: 50px;
+    margin-top:  30px;
+    float: left;
+}
+
+nav {
+    float: right;
+    margin-top: 50px;
+}
+
+.menu {
+    padding: 0;
+    margin: 0;
+    display: block;
+}
+.menu li {
+    float: left;
+    display: block;
+    margin-right: 30px;
+    font-size: 10px;
+    
+}
+
+.menu li a {
+    color: red;
+    text-decoration: none;
+    text-transform: lowercase;
+}
+
+.titles1 {
+    font-size: 50px;
+    color: red;
+    text-transform: uppercase;
+    text-align: center;
+    margin-top: 180px;
+}
+
+h1 {
+   font-size: 75px;
+    color: red;
+    text-transform: uppercase;
+    text-align: center;
+    margin:15px;
+}
+
+.button {
+    background: #fff;
+    color: red;
+    border-radius: 3px;
+    display:block;
+    width: 240px;
+    padding: 20px 0;
+    margin:0 auto;
+    text-align: center;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 18px;
+    margin-top: 50px;
+}
+
+
+
+
+
+
+    
+.title {
+    padding-top: 115px;
+}
+.title h2{
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+    text-transform: uppercase;
+    margin: 0;
+    
+}
+
+.title p{
+    color: red;
+    text-align: center;
+    font font-size: 16px;
+    margin-top: 5px;
+    
+} 
+
+
+
+
+
+.img {
+    width: 250px;
+    height: 300px;
+    
+}
+
+
+
+
+.servises {
+    margin-top: 80px;
+    
+}
+    
+.serv_item {
+    width: 300px;
+    float: left;
+    text-align: center;
+    
+    
+}
+
+    
+.serv_item h3 {
+    font-size: 18px;
+    margin-bottom: 5px;
+    
+}
+    
+.serv_item p {
+    font-size: 14px;
+    color: red;
+    line-height: 1.55em;
+}    
+  _
+.serv_item:last-child {
+    float: right;
+    
+}
+    
+.serv_item:nth-child(2) {
+    margin-left: 35px;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+#services {
+    padding-bottom: 80px;
+}
+
+#portfolio {
+    background: grey;
+    padding-bottom: 110px;
+    
+}
+
+
+.works {
+    margin-top: 20px;
+}
+    
+.works img {
+    float: left;
+} 
+    
+.works img:last-child {
+    float: right;
+}
+.works img:nth-child(2){
+    margin-left: 165px;
+}
+    
+    
+/*
+    
+    
+*{
+    border:1px solid red;
+}
+    
+    
+*/
+    
+    
+
+
+
+
+#aboutUS {
+    padding-bottom: 110px;
+}
+   
+.block {
+       display: block;  
+}
+
+
+.info1 {
+    width: 366px;
+    text-align: center;
+    float: left;
+    margin: 90px 35px ;
+    
+}   
+.block1 img {
+    float: right;
+}
+
+.block2 {
+       display: block;  
+}
+ 
+.info2 {
+    width: 366px;
+    text-align: center;
+    float: right;
+    padding: 90px 35px;
+    
+}   
+
+.block2 img {
+ float: right;
+}
+
+.block3 {
+       display: block;  
+}
+
+
+
+
